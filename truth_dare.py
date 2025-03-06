@@ -68,7 +68,7 @@ class DataBase:
 data_base = DataBase()
 
 
-TOKEN = "7900842404:AAF7ew8DyO4bEVPvV3OsPmMqXI_EO7B0wKQ"
+TOKEN = #bots token 
 
 class Questions:
     def __init__(self):
