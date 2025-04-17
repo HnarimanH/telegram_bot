@@ -68,3 +68,30 @@ TOKEN = "your-super-secret-bot-token"
 
 ### 3. Run the bot:
 #### python bot.py
+
+
+
+## Bot Commands
+| Commands | Description                              |
+|------|----------------------------------------------|
+| /star | Initializes the game and clears old data    |
+| /join | Adds you to the player list                 |
+| /leave | Removes you from the player list           |
+| /start_game | Starts the game (requires 2+ players) |
+| /end  | Ends the game and removes all players       |
+
+
+
+## 🧪 Example Game Flow
+User1: /join  
+User2: /join  
+User3: /join  
+
+User1: /start_game  
+User2: T  
+Bot: "User3, what's the most embarrassing thing you've done?"  
+
+User3: D  
+Bot: "User1, go outside and shout 'I'm a potato'."
+
+
