@@ -2,7 +2,7 @@
 
 A Telegram bot that brings the classic Truth or Dare game to your group chats. Written in Python with `python-telegram-bot`, SQLite, and just enough chaos.
 
-![Bot Demo](https://img.shields.io/badge/Demo-%F0%9F%94%A5-red) *(Replace with actual gif/video link if available)*
+
 
 ## Features 🔥
 - `/start` - Initiate game (bot auto-resets previous session)
